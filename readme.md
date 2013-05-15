@@ -1,26 +1,30 @@
 ## Half-Life Crosshair Changer ##
 
-Half-Life 1 has a static Crosshair in the form of crosshairs.spr.
-It isn't the best Crosshair for orange coloured maps, nor is it that great for accuracy. You can't really change the Crosshair without messing around with the .spr file and if you messed up you would just have a black square on your screen.
+*Half-Life* has a static crosshair in the form of a file called `crosshairs.spr`.
+It isn't the best crosshair for orange coloured maps, and it isn't that great for accuracy.
 
-### Until Now ###
+You can't really change the crosshair without messing around with the crosshair in the console like the newer source games, you have to edit the `crosshairs.spr` file and if you make a mistake you have a black square on your screen.
 
-I have edited several .spr files to bring you a collection of colorful and accurate Crosshairs for Half-Life.
+### Until Now! ###
 
-They Include:
+I have created several `.spr` files to bring you a **collection of colorful and accurate crosshairs** for *Half-Life.*
 
-- **9** Different Crosshairs including the default
-- **7** Different colours for each Crosshair
-- **1** consistent Crosshair for all of your weapons
+**They Include:**
 
-![](http://i.imgur.com/QJJcbo0.png)
+- ***9*** Different Crosshairs including the default
+- ***7*** Different colours for each Crosshair
+- ***1*** consistent Crosshair for all of your weapons
 
-## Installation Instructions ##
+![Image of crosshairs](http://i.imgur.com/QJJcbo0.png)
 
-Extract @Crosshair Changer.bat and crosshairs to the root directory of your Half-Life directory.
+### Installation Instructions ###
+
+----------
+
+Extract `@Crosshair Changer.bat` and the `crosshairs` folder to the root directory of your Half-Life directory.
 
 ### Usage ###
 
-Run @Crosshair Changer.bat and input the number relevant to your choice. Open up Half-Life and you will now have your new crosshair.
+Run `@Crosshair Changer.bat` and input the number relevant to your choice. Open up Half-Life and you will now have your new crosshair.
 
-You can always return to the default crosshair by running @Crosshair Changer again and selecting "Original".
+You can always return to the default crosshair by running `@Crosshair` Changer again and selecting "Original".
