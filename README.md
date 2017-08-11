@@ -20,6 +20,7 @@ I have created several `.spr` files to bring you a **collection of colorful and 
 ### Installation Instructions ###
 
 ----------
+Use `@Crosshair Changer.sh` for linux or `@Crosshair Changer.bat` for windows.
 
 Extract `@Crosshair Changer.bat` and the `crosshairs` folder to the root directory of your Half-Life directory.
 
