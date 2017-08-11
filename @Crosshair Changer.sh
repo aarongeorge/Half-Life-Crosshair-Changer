@@ -105,6 +105,6 @@ esac
 
 rm -f "./valve/sprites/crosshairs.spr"
 cp -f "./crosshairs/$crosshair/$colour.spr" "./valve/sprites/crosshairs.spr"
-#clear
+clear
 echo "All done :)"
 sleep 3
