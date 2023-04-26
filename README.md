@@ -28,4 +28,4 @@ Extract `@Crosshair Changer.bat` and the `crosshairs` folder to the root directo
 
 Run `@Crosshair Changer.bat` and input the number relevant to your choice. Open up Half-Life and you will now have your new crosshair.
 
-You can always return to the default crosshair by running `@Crosshair` Changer again and selecting "Original".
+You can always return to the default crosshair by running `@Crosshair Changer` again and selecting "Original".
